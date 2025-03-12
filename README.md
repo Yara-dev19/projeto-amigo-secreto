@@ -1,4 +1,5 @@
-![Amigo Secreto](https://play-lh.googleusercontent.com/kPe0UEOEGIEhm4xIxzseh8ZBzRumV7IxsDu81tr1qePwsmH8GUuU3w1mG8hIhumyn-hP)
+![PROJETO](https://github.com/user-attachments/assets/481c49c8-be88-469f-b842-6a422b4837a8)
+
 <h1> Projeto: Amigo Secreto </h1>
 Um projeto utilizando as aulas aprendidas na plataforma da Alura, nos cursos de Lógica de Programação.
 
