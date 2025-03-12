@@ -4,6 +4,7 @@
 Um projeto utilizando as aulas aprendidas na plataforma da Alura, nos cursos de Lógica de Programação.
 
 
+
 ![PROJETO](https://github.com/user-attachments/assets/481c49c8-be88-469f-b842-6a422b4837a8)
 
 <h1> Sobre o projeto </h1>
